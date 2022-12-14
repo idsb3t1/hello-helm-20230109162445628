@@ -11,7 +11,7 @@
     "test-unit": "mocha test/unit-test.js --reporter json --reporter-options output=test/unit-test.json | tee test/unit-test.json"
   },
   "dependencies": {
-    "express": "4.17.1",
+    "express": "4.17.3",
     "jquery": "*",
     "nconf": "*",
     "request-json": "*",
